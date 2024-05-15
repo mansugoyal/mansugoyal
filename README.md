@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 **I’m currently working on:**  <br>Creating Node.js projects and implementing architecture's.<br><br>👯 **I’m looking to collaborate on:**  <br>Backend projects<br><br>🌱 **I’m currently learning:**  <br>NestJs, Tensorflow, AI and GraphQL.<br><br>💬 **Ask me about:**  <br>JavaScript, Node.js, Typescript, Mongodb, JWT, Socket.io, Laravel, Codeigniter, CorePhp, Mysql, Postgres, Git, Linux and any general software development questions.<br><br>⚡ **Fun fact:**  <br>I love travelling on my motorbike 🏍️.
+🔭 **I’m currently working on:**  <br>Node.js projects, Tensorflow and implementing architecture's.<br><br>👯 **I’m looking to collaborate on:**  <br>Backend projects<br><br>🌱 **I’m currently learning:**  <br>NestJs, Tensorflow, AI and GraphQL.<br><br>💬 **Ask me about:**  <br>JavaScript, Node.js, Typescript, Mongodb, JWT, Socket.io, Laravel, Codeigniter, CorePhp, Mysql, Postgres, Git, Linux and any general software development questions.<br><br>⚡ **Fun fact:**  <br>I love travelling on my motorbike 🏍️.
 
 
 # 💻 Tech Stack:
