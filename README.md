@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 **I’m currently working on:**  <br>Creating Node.Js projects and implementing microservices architecture.<br><br>👯 **I’m looking to collaborate on:**  <br>Backend projects<br><br>🌱 **I’m currently learning:**  <br>NestJs,Advanced AWS Services and GraphQL.<br><br>💬 **Ask me about:**  <br>JavaScript, Node.js, AWS, Mongodb, LAMP and any general software development questions.<br><br>⚡
+🔭 **I’m currently working on:**  <br>Creating Node.Js projects and implementing microservices architecture.<br><br>👯 **I’m looking to collaborate on:**  <br>Backend projects<br><br>🌱 **I’m currently learning:**  <br>NestJs,Advanced AWS Services and GraphQL.<br><br>💬 **Ask me about:**  <br>JavaScript, Node.js, AWS, Mongodb, LAMP and any general software development questions.<br><br>⚡ **Fun fact:**  <br>I love travelling on my motorbike 🏍️.
 
 
 # 💻 Tech Stack:
